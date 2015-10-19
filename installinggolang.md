@@ -23,6 +23,10 @@ export PATH=$PATH:/usr/local/go/bin
 export GOPATH=$HOME/golang
 "
 
+reload profile
+
+$ source ~/.profile
+
 now you can make a hello.world or use 'go get' to install software
 
 This is literally just a copy of https://golang.org/doc/install
