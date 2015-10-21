@@ -1,0 +1,9 @@
+1. DO NOT USE ROOT. add a new user
+2. give that user sudo privs
+3. add your SSH credentials to that user
+4. disable root ssh access
+5. add public keys from repo
+6. disable password ssh
+
+Lets go ahead and follow digital ocean best practices as our setup guide
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
